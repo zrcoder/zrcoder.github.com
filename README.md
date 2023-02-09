@@ -1,10 +1,8 @@
-# zrcoder
+![english](zrcoder.png)
 
-![english](english.png)
+![coding](example.gif)
 
 ## Open source
-
-[Github Summary](https://resume.github.io/?zrcoder)
 
 - [iCards: an iOS UI compont](https://github.com/zrcoder/iCards)
 
@@ -17,5 +15,3 @@
 - [tdoc: render markdown files in terminal as a book](https://github.com/zrcoder/tdoc)
 
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
-
-![coding](example.gif)
