@@ -4,9 +4,9 @@
 
 ## Open source
 
-- [iCards: an iOS UI compont](https://github.com/zrcoder/iCards)
+- [iCards: an iOS UI component](https://github.com/zrcoder/iCards)
 
-- [spx: goplus game engine](https://github.com/goplus/spx)
+- [spx: Go+ game engine](https://github.com/goplus/spx)
 
 - [leetcode: my go solution](https://rdcode.netlify.app)
 
