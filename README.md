@@ -18,6 +18,10 @@
 
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
 
+- Hanoi Tower Games
+    - [terminal](https://github.com/zrcoder/hanoi)
+    - [iOS](https://github.com/zrcoder/Hanoi-Tower)
+
 ## Github
 
 [https://github.com/zrcoder](https://github.com/zrcoder)
