@@ -12,9 +12,9 @@
 
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
 
-- Hanoi Tower Games
-    - [terminal](https://github.com/zrcoder/hanoi)
-    - [iOS](https://github.com/zrcoder/Hanoi-Tower)
+- Small Games
+    - [terminal games](https://github.com/zrcoder/tgame)
+    - [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
 
 - [spx: Go+ game engine](https://github.com/goplus/spx)
 
