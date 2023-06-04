@@ -5,7 +5,7 @@
 ## Open source
 
 - [iCards: an iOS UI component](https://github.com/zrcoder/iCards)
-- [niudour: draw with codes, for kids and coders](https://zrcoder.github.io/niudour)
+- [ndor: draw with codes, for kids and coders](https://zrcoder.github.io/ndor)
 - [spx: Go+ game engine](https://github.com/goplus/spx)
 - [tdoc: render markdown files in terminal as a book](https://github.com/zrcoder/tdoc)
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
