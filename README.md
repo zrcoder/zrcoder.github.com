@@ -13,9 +13,9 @@
     - [terminal games](https://github.com/zrcoder/rdor)
     - [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
 
-## Github
+## My Slides
 
-[https://github.com/zrcoder](https://github.com/zrcoder)
+<https://rd-slides.netlify.app>
 
 ## My essays
 
