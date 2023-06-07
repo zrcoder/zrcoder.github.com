@@ -1,6 +1,10 @@
-![zrcoder](rd.png)
+<center>
+    <img src='rd.png' height='400px' />
+</center>
 
-![coding](example.gif)
+<center>
+    <img src='example.gif' height='400px'/>
+</center>
 
 ## Open source
 
