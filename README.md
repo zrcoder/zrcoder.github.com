@@ -1,4 +1,4 @@
-![english](zrcoder.png)
+![zrcoder](rd.png)
 
 ![coding](example.gif)
 
@@ -13,10 +13,10 @@
     - [terminal games](https://github.com/zrcoder/rdor)
     - [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
 
-## My Slides
-
-<https://rd-slides.netlify.app>
-
 ## My essays
 
 <https://yaq.netlify.app>
+
+## My Slides
+
+<https://rd-slides.netlify.app>
