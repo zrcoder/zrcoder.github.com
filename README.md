@@ -13,7 +13,7 @@
     - [terminal games](https://github.com/zrcoder/rdor)
     - [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
 
-## My essays
+## My Essays
 
 <https://yaq.netlify.app>
 
