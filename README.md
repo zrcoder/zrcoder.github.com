@@ -1,10 +1,6 @@
-<center>
-    <img src='rd.png' height='400px' />
-</center>
+![rdor](rdor.png)
 
-<center>
-    <img src='example.gif' height='400px'/>
-</center>
+![term](example.gif)
 
 ## Open source
 
