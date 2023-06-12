@@ -1,6 +1,6 @@
 ![rdor](rdor.png)
 
-![term](example.gif)
+![term](https://raw.githubusercontent.com/zrcoder/leetgo/main/example.gif)
 
 ## Open source
 
