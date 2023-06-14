@@ -9,14 +9,13 @@
 - [spx: Go+ game engine](https://github.com/goplus/spx)
 - [tdoc: render markdown files in terminal as a book](https://github.com/zrcoder/tdoc)
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
+- [leetgo: cli APP for leetcode](https://github.com/zrcoder/leetgo)
 - Small Games
     - [terminal games](https://github.com/zrcoder/rdor)
     - [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
 
-## My Essays
+## My sites
 
-<https://yaq.netlify.app>
-
-## My Slides
-
-<https://rd-slides.netlify.app>
+- [Essays](https://yaq.netlify.app)
+- [Slides](https://rd-slides.netlify.app)
+- [Algorithm learning](https://rdcode.netlify.app)
