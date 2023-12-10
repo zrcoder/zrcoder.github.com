@@ -10,6 +10,7 @@
 - [tdoc: render markdown files in terminal as a book](https://github.com/zrcoder/tdoc)
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
 - [leetgo: cli APP for leetcode](https://github.com/zrcoder/leetgo)
+- [yaqs: terminal games for learning programming](https://github.com/zrcoder/yaqs)
 - Small Games
     - [terminal games](https://github.com/zrcoder/rdor)
     - [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
