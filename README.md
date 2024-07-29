@@ -11,7 +11,7 @@
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
 - [leetgo: cli APP for leetcode](https://github.com/zrcoder/leetgo)
 - [yaqs: terminal games for learning programming](https://github.com/zrcoder/yaqs)
-- [codr: Generate diagrams with Go+/Go code](https://github.com/zrcoder/cdor)
+- [cdor: Generate diagrams with Go+/Go code](https://github.com/zrcoder/cdor)
 - Small Games
     - [terminal games](https://github.com/zrcoder/rdor)
     - [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
