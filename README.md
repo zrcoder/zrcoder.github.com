@@ -6,7 +6,7 @@
 - [ndor: draw with codes, for kids and coders](https://ndor.netlify.app)
 - [spx: Go+ game engine](https://github.com/goplus/spx)
 - [amisgo: A low code frontend framework for gophers.](https://github.com/zrcoder/amisgo)
-  ![dev-toys-by-amisgo](https://github.com/zrcoder/amisgo-examples/blob/main/dt.png)
+  ![dev-toys-by-amisgo](https://raw.githubusercontent.com/zrcoder/amisgo-examples/main/dt.png)
 - [tdoc: render markdown files in terminal as a book](https://github.com/zrcoder/tdoc)
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
 - [yaqs: terminal games for learning programming](https://github.com/zrcoder/yaqs)
