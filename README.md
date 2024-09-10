@@ -1,7 +1,5 @@
 ![rdor](rdor.png)
 
-![term](https://raw.githubusercontent.com/zrcoder/leetgo/main/example.gif)
-
 ## Open source
 
 - [iCards: an iOS UI component](https://github.com/zrcoder/iCards)
@@ -10,7 +8,6 @@
 - [amisgo: A low code frontend framework for gophers.](https://github.com/zrcoder/amisgo)
 - [tdoc: render markdown files in terminal as a book](https://github.com/zrcoder/tdoc)
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
-- [leetgo: cli APP for leetcode](https://github.com/zrcoder/leetgo)
 - [yaqs: terminal games for learning programming](https://github.com/zrcoder/yaqs)
 - [cdor: Generate diagrams with Go+/Go code](https://github.com/zrcoder/cdor)
 - Small Games
