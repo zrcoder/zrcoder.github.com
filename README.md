@@ -9,10 +9,9 @@
 - [tdoc: render markdown files in terminal as a book](https://github.com/zrcoder/tdoc)
 - [cdor: Generate diagrams with Go+/Go code](https://github.com/zrcoder/cdor)
 - [dsGo: Data structures impletioned with Go](https://github.com/zrcoder/dsGo)
+- [rdor: terminal games](https://github.com/zrcoder/rdor)
 - [iCards: an iOS UI component](https://github.com/zrcoder/iCards)
-- Small Games
-    - [terminal games](https://github.com/zrcoder/rdor)
-    - [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
+- [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
 
 ## My sites
 
