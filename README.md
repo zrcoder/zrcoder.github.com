@@ -12,6 +12,8 @@
 - [rdor: terminal games](https://github.com/zrcoder/rdor)
 - [iCards: an iOS UI component](https://github.com/zrcoder/iCards)
 - [hanoi tower for iOS](https://github.com/zrcoder/Hanoi-Tower)
+- [dev-toys](https://github.com/zrcoder/amisgo-examples)
+  ![dev-toys](https://raw.githubusercontent.com/zrcoder/amisgo-examples/main/dt.png)
 
 ## My sites
 
