@@ -1,8 +1,6 @@
-## My Profile
-
 ![rdor](rdor.png)
 
-> [Github](https://github.com/zrcoder)
+[Github](https://github.com/zrcoder)
 
 ## Open source
 
