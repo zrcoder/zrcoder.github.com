@@ -20,4 +20,4 @@
 ## My sites
 
 - [Essays](https://yaq.netlify.app)
-- [Slides](https://rd-slides.netlify.app)
+- [Slides](https://rd-slides.pages.dev)
